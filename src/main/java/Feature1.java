@@ -5,4 +5,8 @@ public class Feature1 {
         System.out.println("function1");
         System.out.println("change1");
     }
+    public void function3()
+    {
+        System.out.println("function3");
+    }
 }
