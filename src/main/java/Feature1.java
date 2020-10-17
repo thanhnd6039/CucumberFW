@@ -9,4 +9,9 @@ public class Feature1 {
     {
         System.out.println("function2");
     }
+
+    public void function3()
+    {
+        System.out.println("function3");
+    }
 }
