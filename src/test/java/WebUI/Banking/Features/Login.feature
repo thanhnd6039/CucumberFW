@@ -3,6 +3,7 @@ Feature: Login
     Given I navigate to Home page
     And I input abcd on TextBox of userId on Home page
     And I input abcd on TextBox of password on Home page
+    And I input 1111111 on TextBox of password on Home page
 #    And I click to login button
 #    Then I should see title of Manager Home page
 
